@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tcBrJ4PhEwZ6zC6/+blwB2Q0HEe3dNyHWxz3//r++V1swGB5EGmWiIHDKSS/000ZPaMnz/qvpc3EFJRX88o3xQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mr.Toshniwal\\Desktop\\Cloud Azure\\cloud demo\\CloudDemoProject\\CloudDemoProject\\CloudDemoProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mr.Toshniwal\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
